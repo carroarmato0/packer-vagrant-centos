@@ -1,0 +1,3 @@
+packer_cache/
+output-centos-6-kvm/
+*.box
